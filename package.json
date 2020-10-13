@@ -1,0 +1,25 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlesIvanov/js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlesIvanov/js/issues"
+  },
+  "homepage": "https://github.com/AlesIvanov/js#readme",
+  "dependencies": {
+    "underscore": "^1.11.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
