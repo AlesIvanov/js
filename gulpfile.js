@@ -1,6 +1,5 @@
-function defaultTask(cb) {
-    // place code for your default task here
-    cb();
-}
+const {src, dest} = require('gulp');
+const pug = require('gulp-pug');
+const sync = require('browser-sync').create();
 
-exports.default = defaultTask
+

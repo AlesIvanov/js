@@ -20,6 +20,15 @@
     "underscore": "^1.11.0"
   },
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.26.12",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-file-include": "^2.2.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0"
   }
 }
